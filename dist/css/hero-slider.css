@@ -1,6 +1,7 @@
 .hero-slider-wrapper {
   position: relative;
-  overflow: hidden; }
+  overflow: hidden;
+  min-height: 600px; }
 
 .hero-slider {
   position: absolute;
